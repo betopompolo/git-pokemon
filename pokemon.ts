@@ -5,4 +5,8 @@ class Pokemon {
   attack() {
     console.log('Pokemon attacks!');
   }
+  
+  walk() {
+    console.log('Pokemon walks!');
+  }
 }
